@@ -17,5 +17,5 @@ You can perform the same bytecode edits yourself with Recaf (https://github.com/
 
 Download: https://github.com/downthecrop/rs2006sp-Online/releases/
 
-Just replace Server.jar in your folder with this. Tell your friends to join your Hamachi network and 
+Just replace Server.jar in your folder with this. Tell your friends to join your Hamachi network and change their adapter priority.
 
